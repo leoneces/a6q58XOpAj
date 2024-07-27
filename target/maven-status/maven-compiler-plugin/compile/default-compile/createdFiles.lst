@@ -1,0 +1,16 @@
+com/leoneces/a6q58XOpAj/server/model/Book.class
+com/leoneces/a6q58XOpAj/server/api/AuthorApi.class
+org/openapitools/configuration/HomeController.class
+com/leoneces/a6q58XOpAj/server/model/Author.class
+com/leoneces/a6q58XOpAj/server/api/BookApiController.class
+com/leoneces/a6q58XOpAj/server/api/AuthorApiController.class
+org/openapitools/RFC3339DateFormat.class
+org/openapitools/configuration/SpringDocConfiguration.class
+org/openapitools/OpenApiGeneratorApplication.class
+com/leoneces/a6q58XOpAj/server/api/BookApi.class
+com/leoneces/a6q58XOpAj/A6q58XOpAjApplication.class
+com/leoneces/a6q58XOpAj/server/api/BorrowerApi.class
+com/leoneces/a6q58XOpAj/server/api/ApiUtil.class
+com/leoneces/a6q58XOpAj/server/api/BorrowerApiController.class
+com/leoneces/a6q58XOpAj/server/model/Borrower.class
+com/leoneces/a6q58XOpAj/server/model/BorrowedBook.class

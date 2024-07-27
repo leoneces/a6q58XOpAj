@@ -1,0 +1,16 @@
+/home/leoneces/IdeaProjects/a6q58XOpAj/src/main/java/com/leoneces/a6q58XOpAj/A6q58XOpAjApplication.java
+/home/leoneces/IdeaProjects/a6q58XOpAj/target/generated-sources/openapi/src/gen/java/main/com/leoneces/a6q58XOpAj/server/api/ApiUtil.java
+/home/leoneces/IdeaProjects/a6q58XOpAj/target/generated-sources/openapi/src/gen/java/main/com/leoneces/a6q58XOpAj/server/api/AuthorApi.java
+/home/leoneces/IdeaProjects/a6q58XOpAj/target/generated-sources/openapi/src/gen/java/main/com/leoneces/a6q58XOpAj/server/api/AuthorApiController.java
+/home/leoneces/IdeaProjects/a6q58XOpAj/target/generated-sources/openapi/src/gen/java/main/com/leoneces/a6q58XOpAj/server/api/BookApi.java
+/home/leoneces/IdeaProjects/a6q58XOpAj/target/generated-sources/openapi/src/gen/java/main/com/leoneces/a6q58XOpAj/server/api/BookApiController.java
+/home/leoneces/IdeaProjects/a6q58XOpAj/target/generated-sources/openapi/src/gen/java/main/com/leoneces/a6q58XOpAj/server/api/BorrowerApi.java
+/home/leoneces/IdeaProjects/a6q58XOpAj/target/generated-sources/openapi/src/gen/java/main/com/leoneces/a6q58XOpAj/server/api/BorrowerApiController.java
+/home/leoneces/IdeaProjects/a6q58XOpAj/target/generated-sources/openapi/src/gen/java/main/com/leoneces/a6q58XOpAj/server/model/Author.java
+/home/leoneces/IdeaProjects/a6q58XOpAj/target/generated-sources/openapi/src/gen/java/main/com/leoneces/a6q58XOpAj/server/model/Book.java
+/home/leoneces/IdeaProjects/a6q58XOpAj/target/generated-sources/openapi/src/gen/java/main/com/leoneces/a6q58XOpAj/server/model/BorrowedBook.java
+/home/leoneces/IdeaProjects/a6q58XOpAj/target/generated-sources/openapi/src/gen/java/main/com/leoneces/a6q58XOpAj/server/model/Borrower.java
+/home/leoneces/IdeaProjects/a6q58XOpAj/target/generated-sources/openapi/src/gen/java/main/org/openapitools/OpenApiGeneratorApplication.java
+/home/leoneces/IdeaProjects/a6q58XOpAj/target/generated-sources/openapi/src/gen/java/main/org/openapitools/RFC3339DateFormat.java
+/home/leoneces/IdeaProjects/a6q58XOpAj/target/generated-sources/openapi/src/gen/java/main/org/openapitools/configuration/HomeController.java
+/home/leoneces/IdeaProjects/a6q58XOpAj/target/generated-sources/openapi/src/gen/java/main/org/openapitools/configuration/SpringDocConfiguration.java
